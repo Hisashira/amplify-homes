@@ -11,5 +11,18 @@
       "StackId": "arn:aws:cloudformation:eu-west-2:691460774223:stack/amplify-amplifyhomes-staging-40507/0966a520-5325-11ec-b367-027cd13ae230",
       "AmplifyAppId": "dafvyl12im7ac"
     }
+  },
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-amplifyhomes-dev-73210-authRole",
+      "UnauthRoleArn": "arn:aws:iam::171989236851:role/amplify-amplifyhomes-dev-73210-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::171989236851:role/amplify-amplifyhomes-dev-73210-authRole",
+      "Region": "ap-northeast-1",
+      "DeploymentBucketName": "amplify-amplifyhomes-dev-73210-deployment",
+      "UnauthRoleName": "amplify-amplifyhomes-dev-73210-unauthRole",
+      "StackName": "amplify-amplifyhomes-dev-73210",
+      "StackId": "arn:aws:cloudformation:ap-northeast-1:171989236851:stack/amplify-amplifyhomes-dev-73210/823f50d0-744f-11ee-a9e3-0ac1309dec59",
+      "AmplifyAppId": "do8gyyl3on0ie"
+    }
   }
 }
